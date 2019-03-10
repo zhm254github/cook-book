@@ -1,0 +1,474 @@
+{
+  "types": [
+    {
+      "typeId": 1,
+      "typeName": "家常菜",
+      "typeImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1552142002&di=322e40e38f398c48648d1cb124c613bc&src=http://img3.duitang.com/uploads/item/201602/29/20160229010515_ewsRd.jpeg",
+      "foods": [
+        {
+          "foodName": "农家小炒肉1",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088742768886.jpg",
+          "materials": [
+            {
+              "materialName": "五花肉",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "线椒",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "小米椒",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "盐",
+              "materialDosage": "1勺"
+            },
+            {
+              "materialName": "食用油",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "蒜",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "豆豉",
+              "materialDosage": "5克"
+            },
+            {
+              "materialName": "酱油",
+              "materialDosage": "15克"
+            },
+            {
+              "materialName": "生抽",
+              "materialDosage": "10克"
+            },
+            {
+              "materialName": "白糖",
+              "materialDosage": "3克"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "五花肉一块去皮切成片。线椒、小米椒切滚刀条或斜条，根据你的喜欢来决定，我切的是斜条。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088740226983.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "干锅小火煸炒线椒，把水分炒没了，放一勺盐，炒至虎皮即可捞出备用。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088741073001.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "锅中热油，放五花肉煸炒，加蒜和豆豉5克至出油。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088788273588.jpg"
+            },
+            {
+              "stepNumber": "四",
+              "stepText": "加线椒翻炒，加酱油15克和生抽10克，放入白糖3克搅匀出锅即可。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088743747498.jpg"
+            }
+          ]
+        },
+        {
+          "foodName": "农家小炒肉2",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088742768886.jpg",
+          "materials": [
+            {
+              "materialName": "五花肉",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "线椒",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "小米椒",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "盐",
+              "materialDosage": "1勺"
+            },
+            {
+              "materialName": "食用油",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "蒜",
+              "materialDosage": "适量"
+            },
+            {
+              "materialName": "豆豉",
+              "materialDosage": "5克"
+            },
+            {
+              "materialName": "酱油",
+              "materialDosage": "15克"
+            },
+            {
+              "materialName": "生抽",
+              "materialDosage": "10克"
+            },
+            {
+              "materialName": "白糖",
+              "materialDosage": "3克"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "五花肉一块去皮切成片。线椒、小米椒切滚刀条或斜条，根据你的喜欢来决定，我切的是斜条。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088740226983.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "干锅小火煸炒线椒，把水分炒没了，放一勺盐，炒至虎皮即可捞出备用。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088741073001.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "锅中热油，放五花肉煸炒，加蒜和豆豉5克至出油。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088788273588.jpg"
+            },
+            {
+              "stepNumber": "四",
+              "stepText": "加线椒翻炒，加酱油15克和生抽10克，放入白糖3克搅匀出锅即可。",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/09/29/13132259/n13132259_155088743747498.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "typeId": 2,
+      "typeName": "法国菜",
+      "typeImg": "http://huafans.dbankcloud.com/pic/2017/07/03/1f9538b695dbef7111ebf57f2d59b09a_IMG_20170629_184449.jpg?mode=download",
+      "foods": [
+        {
+          "foodName": "法式Guiche1",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897447956.jpg",
+          "materials": [
+            {
+              "materialName": "西式酥皮",
+              "materialDosage": "一张"
+            },
+            {
+              "materialName": "鸡蛋液",
+              "materialDosage": "4个"
+            },
+            {
+              "materialName": "芝士碎",
+              "materialDosage": "150克"
+            },
+            {
+              "materialName": "腊肉(培根)",
+              "materialDosage": "两条"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "酥皮铺好 用叉子扎洞 会更服帖 鸡蛋打蛋液 培根切小块 同时预热烤箱",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897365603.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "把芝士碎 培根块 和蛋液倒进酥皮",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897355461.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "预热烤箱200度5分钟 放入中层 上下火 20-30分钟左右 即可",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897424323.jpg"
+            }
+          ]
+        },
+        {
+          "foodName": "法式Guiche2",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897447956.jpg",
+          "materials": [
+            {
+              "materialName": "西式酥皮",
+              "materialDosage": "一张"
+            },
+            {
+              "materialName": "鸡蛋液",
+              "materialDosage": "4个"
+            },
+            {
+              "materialName": "芝士碎",
+              "materialDosage": "150克"
+            },
+            {
+              "materialName": "腊肉(培根)",
+              "materialDosage": "两条"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "酥皮铺好 用叉子扎洞 会更服帖 鸡蛋打蛋液 培根切小块 同时预热烤箱",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897365603.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "把芝士碎 培根块 和蛋液倒进酥皮",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897355461.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "预热烤箱200度5分钟 放入中层 上下火 20-30分钟左右 即可",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/131/135/5721381/n5721381_148161897424323.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "typeId": 3,
+      "typeName": "广东小吃",
+      "typeImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1552158247676&di=a43411b73392ce3e95c88769d9f826eb&imgtype=0&src=http%3A%2F%2Fimg1.qunarzz.com%2Ftravel%2Fpoi%2F1501%2Fe7%2Fc5ec61d35aef3a.jpg",
+      "foods": [
+        {
+          "foodName": "广东云吞面1",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060440697421.jpg",
+          "materials": [
+            {
+              "materialName": "碱水面",
+              "materialDosage": "3两"
+            },
+            {
+              "materialName": "馄饨皮",
+              "materialDosage": "10张"
+            },
+            {
+              "materialName": "肉糜",
+              "materialDosage": "150克"
+            },
+            {
+              "materialName": "高汤",
+              "materialDosage": "500克"
+            },
+            {
+              "materialName": "青菜",
+              "materialDosage": "2颗"
+            },
+            {
+              "materialName": "葱末",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "盐",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "酱油",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "白糖",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "胡椒粉",
+              "materialDosage": "少许"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "食材图",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060433751231.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "云吞的制作：肉糜加入盐、糖、胡椒粉、麻油，搅拌上劲",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060434463743.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "适量肉馅挑到云吞皮上，对角对折云吞皮，用褶皱的方法收口",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060435398112.jpg"
+            },
+            {
+              "stepNumber": "四",
+              "stepText": "蒸盘摸上少许油，包好的云吞放上蒸盘，放入蒸箱，普通模式蒸煮，8min",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060436884003.jpg"
+            },
+            {
+              "stepNumber": "五",
+              "stepText": "取一锅，加水烧开，碱水面下锅，30秒捞出，摆上出炉的云吞，浇上骨头汤",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060438198283.jpg"
+            },
+            {
+              "stepNumber": "六",
+              "stepText": "撒上葱花，尽情享用吧",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060439456562.jpg"
+            }
+          ]
+        },
+        {
+          "foodName": "广东云吞面2",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060440697421.jpg",
+          "materials": [
+            {
+              "materialName": "碱水面",
+              "materialDosage": "3两"
+            },
+            {
+              "materialName": "馄饨皮",
+              "materialDosage": "10张"
+            },
+            {
+              "materialName": "肉糜",
+              "materialDosage": "150克"
+            },
+            {
+              "materialName": "高汤",
+              "materialDosage": "500克"
+            },
+            {
+              "materialName": "青菜",
+              "materialDosage": "2颗"
+            },
+            {
+              "materialName": "葱末",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "盐",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "酱油",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "白糖",
+              "materialDosage": "少许"
+            },
+            {
+              "materialName": "胡椒粉",
+              "materialDosage": "少许"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "食材图",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060433751231.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "云吞的制作：肉糜加入盐、糖、胡椒粉、麻油，搅拌上劲",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060434463743.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "适量肉馅挑到云吞皮上，对角对折云吞皮，用褶皱的方法收口",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060435398112.jpg"
+            },
+            {
+              "stepNumber": "四",
+              "stepText": "蒸盘摸上少许油，包好的云吞放上蒸盘，放入蒸箱，普通模式蒸煮，8min",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060436884003.jpg"
+            },
+            {
+              "stepNumber": "五",
+              "stepText": "取一锅，加水烧开，碱水面下锅，30秒捞出，摆上出炉的云吞，浇上骨头汤",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060438198283.jpg"
+            },
+            {
+              "stepNumber": "六",
+              "stepText": "撒上葱花，尽情享用吧",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/52/228/9682052/n9682052_149060439456562.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "typeId": 4,
+      "typeName": "甜品点心",
+      "typeImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1480419401,3371703216&fm=26&gp=0.jpg",
+      "foods": [
+        {
+          "foodName": "木糠蛋糕1",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769449535208.jpg",
+          "materials": [
+            {
+              "materialName": "酥性饼干",
+              "materialDosage": "50克"
+            },
+            {
+              "materialName": "淡奶油",
+              "materialDosage": "150克"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "酥性饼干捣碎",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769445582841.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "碗中放入淡奶油，打发，装入裱花袋",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769446875809.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "饼干碎放入杯子，挤上一层奶油，再次放上饼干碎，在次挤上奶油",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769448306156.jpg"
+            },
+            {
+              "stepNumber": "四",
+              "stepText": "均匀撒上饼干碎",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769449015175.jpg"
+            }
+          ]
+        },
+        {
+          "foodName": "木糠蛋糕2",
+          "finishedImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769449535208.jpg",
+          "materials": [
+            {
+              "materialName": "酥性饼干",
+              "materialDosage": "50克"
+            },
+            {
+              "materialName": "淡奶油",
+              "materialDosage": "150克"
+            }
+          ],
+          "steps": [
+            {
+              "stepNumber": "一",
+              "stepText": "酥性饼干捣碎",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769445582841.jpg"
+            },
+            {
+              "stepNumber": "二",
+              "stepText": "碗中放入淡奶油，打发，装入裱花袋",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769446875809.jpg"
+            },
+            {
+              "stepNumber": "三",
+              "stepText": "饼干碎放入杯子，挤上一层奶油，再次放上饼干碎，在次挤上奶油",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769448306156.jpg"
+            },
+            {
+              "stepNumber": "四",
+              "stepText": "均匀撒上饼干碎",
+              "stepImageUrl": "https://s1.st.meishij.net/rs/41/203/113291/n113291_154769449015175.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
